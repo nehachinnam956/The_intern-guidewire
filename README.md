@@ -8,7 +8,7 @@ Built for Zepto & Blinkit delivery partners — automatic UPI payouts when flood
 
 ## Live Demo
 - **Frontend (Vercel):** the-intern-guidewire-git-main-nehachinnam956s-projects.vercel.app
-- **Backend (Railway):** ttheintern-guidewire-production.up.railway.app
+- **Backend (Railway):** theintern-guidewire-production.up.railway.app
 - **Demo video:** [2-min walkthrough link]
 
 ---
